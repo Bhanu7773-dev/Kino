@@ -22,15 +22,13 @@
 <table>
   <tr>
     <td align="center"><img src="loading.jpg" width="200"><br><sub>Loading</sub></td>
-    <td align="center"><img src="docs/screenshots/02-home.png" width="200"><br><sub>Home</sub></td>
-    <td align="center"><img src="docs/screenshots/03-search.png" width="200"><br><sub>Search</sub></td>
-    <td align="center"><img src="docs/screenshots/04-details.png" width="200"><br><sub>Title details</sub></td>
+    <td align="center"><img src="home.jpg" width="200"><br><sub>Home</sub></td>
+    <td align="center"><img src="serach.jpg" width="200"><br><sub>Search</sub></td>
+    <td align="center"><img src="settings.jpg" width="200"><br><sub>Title details</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/screenshots/05-sources.png" width="200"><br><sub>Stream sources</sub></td>
-    <td align="center"><img src="docs/screenshots/06-player.png" width="200"><br><sub>Player</sub></td>
-    <td align="center"><img src="docs/screenshots/07-downloads.png" width="200"><br><sub>Downloads</sub></td>
-    <td align="center"><img src="docs/screenshots/08-settings.png" width="200"><br><sub>Settings</sub></td>
+    <td align="center"><img src="lapcast.jpg" width="200"><br><sub>Stream sources</sub></td>
+    <td align="center"><img src="plugin.jpg" width="200"><br><sub>Player</sub></td>
   </tr>
 </table>
 
