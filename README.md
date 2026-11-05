@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="intro.mp4" alt="StreamX - Your entertainment universe" width="100%">
-</p>
-
-<p align="center">
   <b>A fast, modern movie &amp; series streaming app built with Flutter.</b><br>
   Stream torrents instantly, cast to your laptop, and use your phone as a remote.
 </p>
@@ -55,16 +51,7 @@
 ## Getting started
 
 ### Download
-Grab the latest APK from the [Releases](../../releases) page and install it on your Android device.
-
-### Build from source
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
-flutter pub get
-flutter run
-```
-Requires the [Flutter SDK](https://docs.flutter.dev/get-started/install) and an Android device or emulator.
+Grab the latest APK from the [Releases](../../releases) page and install it on your Android device
 
 ## Using LapCast
 
