@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td align="center"><img src="docs/screenshots/01-loading.png" width="200"><br><sub>Loading</sub></td>
+    <td align="center"><img src="loading.jpg" width="200"><br><sub>Loading</sub></td>
     <td align="center"><img src="docs/screenshots/02-home.png" width="200"><br><sub>Home</sub></td>
     <td align="center"><img src="docs/screenshots/03-search.png" width="200"><br><sub>Search</sub></td>
     <td align="center"><img src="docs/screenshots/04-details.png" width="200"><br><sub>Title details</sub></td>
