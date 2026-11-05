@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/banner.png" alt="StreamX - Your entertainment universe" width="100%">
+  <img src="intro.mp4" alt="StreamX - Your entertainment universe" width="100%">
 </p>
 
 <p align="center">
